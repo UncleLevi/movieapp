@@ -7,13 +7,14 @@ Whether you're in the mood for action, romance, comedy, or mystery, Donjuan has 
 ## Screenshots
 
 ### Launch Screen
-![Launch Screen](https://github.com/UncleLevi/movieapp/assets/120115733/bc1f2d2c-24dd-4c1f-8b82-40f6460d280a)
+![Launch Screen](https://github.com/UncleLevi/movieapp/assets/120115733/bc1f2d2c-24dd-4c1f-8b82-40f6460d280a =x200)
 
 ### Home Screen
 ![Home Screen](https://github.com/UncleLevi/movieapp/assets/120115733/6a15ca2c-a2f7-4bf7-8478-deb397452ed7)
 
 ### Movie Details Screen
 ![Movie Details Screen(1)](https://github.com/UncleLevi/movieapp/assets/120115733/d14df0f7-868d-4ed7-91a4-a33a61e17c92)
+
 ![Movie Details Screen(2)](https://github.com/UncleLevi/movieapp/assets/120115733/3030aebe-7aaf-4da1-8403-fc2dc6170c2f)
 
 ## Features (Ongoing)
